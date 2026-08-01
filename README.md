@@ -151,7 +151,7 @@ Overall, the key takeaway is that **timing- and context-driven targeting is far 
 ```
 .
 ├── README.md
-├── prompt_III_solution.ipynb        # Main analysis notebook (start here)
+├── ComapringClassifier_ BankMarketingTermDepositPrediction_Sanchitag.ipynb       # Main analysis notebook (start here)
 ├── CRISP-DM-BANK.pdf                # Background paper on the dataset/methodology
 └── data/
     └── bank-additional/
